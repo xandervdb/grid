@@ -1,0 +1,46 @@
+		body {
+			background-image: url(bg.png);
+			font-family: Tahoma;
+		}
+		
+		#frame {
+			background-color: rgba(255,200,200,0.3);
+		}
+		
+		header nav ul {
+			list-style-type: none;
+			background-color: rgba(255,255,200,0.3);
+		}
+		
+		#content {
+			
+		}
+		
+		nav li {
+			
+		}
+		
+		nav li a {
+		}
+		
+		main{
+			border: 1px black solid;
+			background-color: rgba(200,200,255,0.3);
+		}
+		
+		aside{
+			border: 1px black solid;
+			background-color: rgba(200,255,200,0.3);
+		}
+		
+		body article {
+			background-color: rgba(200,200,200,0.6);
+		}
+		
+		header {
+		}
+		
+		footer {
+			background-color: rgba(255,255,200,0.3);
+		}
+	
