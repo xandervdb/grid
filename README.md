@@ -31,6 +31,3 @@ De twee pagina's moet aan de volgende technische eisen voldoen:
 
 ### Tip
 * Om de webpagina exact overeen te laten komen met het voorbeeld kan het handig zijn om het browserscherm te versmallen tot de breedte van het voorbeeld.
-
-### Bronnen
-#### HTML & CSS
